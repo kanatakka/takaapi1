@@ -1,3 +1,8 @@
+# Build
+out
+build
+bin
+
 HELP.md
 .gradle
 build/
